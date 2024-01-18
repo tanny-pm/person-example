@@ -1,0 +1,2 @@
+class AgeAboveMaximumException(Exception):
+    pass

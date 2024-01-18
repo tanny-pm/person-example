@@ -1,0 +1,2 @@
+class AgeBelowMinimumException(Exception):
+    pass
